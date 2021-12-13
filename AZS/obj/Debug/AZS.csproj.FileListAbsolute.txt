@@ -1,0 +1,11 @@
+C:\Users\GG\source\repos\AZS\AZS\bin\Debug\AZS.exe.config
+C:\Users\GG\source\repos\AZS\AZS\bin\Debug\AZS.exe
+C:\Users\GG\source\repos\AZS\AZS\bin\Debug\AZS.pdb
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.csproj.AssemblyReference.cache
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.Form1.resources
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.Properties.Resources.resources
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.csproj.GenerateResource.cache
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.csproj.CoreCompileInputs.cache
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.exe
+C:\Users\GG\source\repos\AZS\AZS\obj\Debug\AZS.pdb
